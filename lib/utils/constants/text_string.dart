@@ -1,19 +1,10 @@
 class TText {
   TText._();
 
-  /// -- On Boarding Text
-  static const String onBoardingTitle1 = '';
-  static const String onBoardingTitle2 = '';
-  static const String onBoardingTitle3 = '';
-
-  static const String onBoardingSubtitle1 = '';
-  static const String onBoardingSubtitle2 = '';
-  static const String onBoardingSubtitle3 = '';
-
   /// -- App Name Text
   static const String loginTitle = 'Janatar Barta';
   static const String loginSubTitle = 'Welcome back.';
-  static const String loginSubTitle1 = 'Join us.';
+  static const String loginSubTitle1 = 'Create an account';
 
   /// -- Sign in option text
  static const String googleSignIn='Sign in with Google';
